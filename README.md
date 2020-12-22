@@ -48,7 +48,7 @@ python3 test_classifier.py checkpoints/model_epoch_23.pth data/test/class2_withd
  ![image](detection/prediction_3.jpg)
  
  
-# Requirements
+### Requirements
 torch
 torchvision
 opencv-python
@@ -61,6 +61,3 @@ matplotlib
 
 
 
-
-
-# Download Weights
