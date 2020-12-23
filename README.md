@@ -1,4 +1,4 @@
-# SensAI Projesi
+# A multi-output classification and object detection project using Pytorch
 ![](https://img.shields.io/static/v1?label=python&message=3.6|3.8&color=blue)
 ![](https://img.shields.io/static/v1?label=pytorch&message=1.7&color=<COLOR>)
 
